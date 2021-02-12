@@ -7,7 +7,7 @@ let counterMinusElem2 = document.querySelector(".minusButton");
 let counterPlusElem2 = document.querySelector(".plusButton");
 
 // smaking a variable for the count
-let count = 1;
+let count = 0;
 let count2 = 0;
 
 // event listeners for plus an minus buttons
